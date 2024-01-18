@@ -9,15 +9,15 @@ It is an advanced Multiple Diseases Prediction System designed to leverage the p
 
 - **Diabetes Prediction:**
   - Harnesses a sophisticated machine learning model to predict the probability of diabetes based on diverse health parameters.
-  ![Diabetes Prediction](![Screenshot (411)](https://github.com/mohammmed-azeez/Travel-and-Tourism-Management-System/assets/85385770/331aada8-ec15-422b-bdf0-95d6b51a2f28))
+  (![Screenshot (411)](https://github.com/mohammmed-azeez/Travel-and-Tourism-Management-System/assets/85385770/331aada8-ec15-422b-bdf0-95d6b51a2f28))
 
 - **Heart Disease Prediction:**
   - Implements a state-of-the-art machine learning model for the early detection of heart disease, offering crucial insights into cardiovascular health.
-  ![Heart Disease Prediction](![Screenshot (412)](https://github.com/mohammmed-azeez/Travel-and-Tourism-Management-System/assets/85385770/8664c04a-0323-49fd-9808-2b958392b891))
+  (![Screenshot (412)](https://github.com/mohammmed-azeez/Travel-and-Tourism-Management-System/assets/85385770/8664c04a-0323-49fd-9808-2b958392b891))
 
 - **Parkinson's Disease Prediction:**
   - Utilizes advanced machine learning algorithms to predict Parkinson's disease by analyzing specific features and patterns.
-  ![Parkinson's Disease Prediction](![Screenshot (413)](https://github.com/mohammmed-azeez/Travel-and-Tourism-Management-System/assets/85385770/b9ede6a8-6458-4c42-b2cc-2427cbc4d2ed))
+  (![Screenshot (413)](https://github.com/mohammmed-azeez/Travel-and-Tourism-Management-System/assets/85385770/b9ede6a8-6458-4c42-b2cc-2427cbc4d2ed))
 
 ## Technologies Used
 
