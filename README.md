@@ -41,9 +41,9 @@ The repository is organized into modular components:
 - Integration of real-time data streams and wearable device compatibility.
 - Collaboration with healthcare professionals for validation and improvement.
 
-##Acknowledgments
+## Acknowledgments
 
-Special thanks to [Adnan , Mehboob] for their valuable contributions.
+Special thanks to `Adnan & Mehboob` for their valuable contributions.
 
   
 
